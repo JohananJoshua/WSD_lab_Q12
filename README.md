@@ -7,7 +7,7 @@ In this lab, you will use the Node.js File System (fs) module to create, read, u
 Each blog post will be stored in a "posts" directory as a separate text file.
 
 
-# Commands for CRUD
+#Commands for CRUD
 
 node index.js  #create a posts directory
 node createPost.js  #create a blogPost.txt file
